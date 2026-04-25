@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/ToDo list.md",
+                "file": "BackEnd/Regras de Negócio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo list"
+              "title": "Regras de Negócio"
             }
           }
         ]
@@ -247,8 +247,9 @@
   },
   "active": "89d10455c82dec00",
   "lastOpenFiles": [
-    "BackEnd/Regras de Negócio.md",
+    "BackEnd/Mapa do sucesso.md",
     "BackEnd/ToDo list.md",
+    "BackEnd/Regras de Negócio.md",
     "VaultManagement/templates/Few-shot template.md",
     "BackEnd/DataBase",
     "Daily/2026-04-25.md",
@@ -281,7 +282,6 @@
     "Work/Candidates.md",
     "Prompts/Component agent PROMPT.md",
     "Work/PR resumo.md",
-    "Work/Prompt para o Agente de IA Extração de Componente ScheduleTypePanel.md",
-    "Work/schedule_submit_actions.tsx.md"
+    "Work/Prompt para o Agente de IA Extração de Componente ScheduleTypePanel.md"
   ]
 }
