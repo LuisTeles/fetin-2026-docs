@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolderDown",
+      "LiFolderCog2",
+      "LiFolderMinus",
       "LiFolderHeart",
-      "LiFolderArchive",
-      "LiFolderCode",
-      "LiFolderKanban",
-      "LiFolderClock"
+      "LiFolderArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,8 @@
   "Projects": "LiFolderKanban",
   "Prompts": "LiFolderCode",
   "Work": "LiFolderArchive",
-  "Fetin": "LiFolderHeart"
+  "Fetin": "LiFolderHeart",
+  "Prompt": "LiFolderMinus",
+  "BackEnd": "LiFolderCog2",
+  "FrontEnd": "LiFolderDown"
 }
