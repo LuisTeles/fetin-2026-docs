@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VaultManagement/templates/Few-shot template.md",
+                "file": "BackEnd/ToDo list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Few-shot template"
-            }
-          },
-          {
-            "id": "e7dee9321e78e6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VaultManagement/templates/Few-shot template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Few-shot template"
-            }
-          },
-          {
-            "id": "357c3c3672d98006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-04-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-25"
+              "title": "ToDo list"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,17 +245,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8cb0e59c6243ccc3",
+  "active": "89d10455c82dec00",
   "lastOpenFiles": [
-    "testetse.md",
+    "BackEnd/Regras de Negócio.md",
+    "BackEnd/ToDo list.md",
+    "VaultManagement/templates/Few-shot template.md",
+    "BackEnd/DataBase",
     "Daily/2026-04-25.md",
+    "testetse.md",
     "VaultManagement/templates/daily-note-template.md",
     "VaultManagement/templates/Context-based-prompt.md",
     "Daily",
     "FrontEnd",
     "BackEnd",
     "Prompt",
-    "VaultManagement/templates/Few-shot template.md",
     "Untitled.md",
     "README.md",
     "VaultManagement/templates/Untitled",
@@ -298,7 +272,6 @@
     "Prompts/fetin data base.md",
     "Fetin/Banco de dados.md",
     "Fetin/Untitled",
-    "Fetin",
     "Daily/2026-04-20.md",
     "Work/Candidate 04.md",
     "Work/Candidate 03.md",
@@ -309,8 +282,6 @@
     "Prompts/Component agent PROMPT.md",
     "Work/PR resumo.md",
     "Work/Prompt para o Agente de IA Extração de Componente ScheduleTypePanel.md",
-    "Work/schedule_submit_actions.tsx.md",
-    "Work/Prompt para o Agente de IA.md",
-    "Daily/2026-04-17.md"
+    "Work/schedule_submit_actions.tsx.md"
   ]
 }
