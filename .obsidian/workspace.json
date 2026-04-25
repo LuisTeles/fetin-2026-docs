@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VaultManagement/templates/Context-based-prompt.md",
+                "file": "Daily/2026-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context-based-prompt"
+              "title": "2026-04-25"
             }
           }
         ],
@@ -274,13 +274,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8cb0e59c6243ccc3",
+  "active": "357c3c3672d98006",
   "lastOpenFiles": [
+    "VaultManagement/templates/daily-note-template.md",
+    "Daily/2026-04-25.md",
+    "VaultManagement/templates/Context-based-prompt.md",
+    "Daily",
     "FrontEnd",
     "BackEnd",
     "Prompt",
     "VaultManagement/templates/Few-shot template.md",
-    "VaultManagement/templates/Context-based-prompt.md",
     "testetse.md",
     "Untitled.md",
     "README.md",
@@ -292,7 +295,6 @@
     "Prompts/bd business rules.md",
     "Prompts/audit-atomic-components.md",
     "Prompts/01 links pagina de pivos.md",
-    "Daily/2026-04-25.md",
     "Prompts/fetin data base.md",
     "Fetin/Banco de dados.md",
     "Fetin/Untitled",
@@ -309,8 +311,6 @@
     "Work/Prompt para o Agente de IA Extração de Componente ScheduleTypePanel.md",
     "Work/schedule_submit_actions.tsx.md",
     "Work/Prompt para o Agente de IA.md",
-    "Daily/2026-04-17.md",
-    "Prompts/Agents",
-    "Work"
+    "Daily/2026-04-17.md"
   ]
 }

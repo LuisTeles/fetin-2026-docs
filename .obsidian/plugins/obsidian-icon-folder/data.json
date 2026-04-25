@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolderClock",
       "LiFolderDown",
       "LiFolderCog2",
       "LiFolderMinus",
-      "LiFolderHeart",
-      "LiFolderArchive"
+      "LiFolderHeart"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,7 @@
     "useInternalPlugins": false
   },
   "VaultManagement": "LiSettings",
-  "Daily": "LiCalendar",
+  "Daily": "LiFolderClock",
   "Permanent": "LiFolderCheck",
   "Ideas": "LiFolderClock",
   "Projects": "LiFolderKanban",
